@@ -1,3 +1,7 @@
+## Covind Plot
+
+
+### Plots
 This App plots some graphs abaut coronavirus cases in Italy and the condition of the Hospital due to the number of infected people.
 Plots
 The App is divided in 4 different areas with different types of plots.
@@ -9,6 +13,6 @@ The App is divided in 4 different areas with different types of plots.
 2.3. the number of hospitalized and quarantine cases over the total number of cases.
 3. The number of cases each day in each provinces and I give them a color between yellow and red with respect the daily highest number of cases.
 4. Some other variables for each regions each day with an analogous color scale.
-Structure
+### Structure
 Each of these four arguments are gouped with tabs and, if necessary, thay are also divided in subtabs.
 In some cases I report some details about how I modify the data before visualize them.
