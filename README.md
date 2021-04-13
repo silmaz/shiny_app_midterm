@@ -1,10 +1,9 @@
-## Covind Plot
+## Covind Plots
 
 
-### Plots
 This App plots some graphs abaut coronavirus cases in Italy and the condition of the Hospital due to the number of infected people.
-Plots
 The App is divided in 4 different areas with different types of plots.
+
 #### Cases and Hospitalized
 1. The number of the cases each days and also the number of healted each day in two different layout;
 2. the moving average of dayly new cases and healted with the possibility of changing the number of days for the mean;
