@@ -28,4 +28,4 @@ In some cases I report some details about how I modify the data before visualize
 
 ## Run the app
 The command to run the app is:
-  runGitHub("shiny_app_midterm", "silmaz", "main" )
+> runGitHub("shiny_app_midterm", "silmaz", "main" )
