@@ -24,3 +24,8 @@ Some other variables for each regions each day with an analogous color scale.
 ### Structure
 Each of these four arguments are gouped with tabs and, if necessary, thay are also divided in subtabs.
 In some cases I report some details about how I modify the data before visualize them.
+
+
+## Run the app
+The command to run the app is:
+  runGitHub("shiny_app_midterm", "silmaz", "main" )
